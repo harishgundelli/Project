@@ -9,7 +9,5 @@ Screenshots:-
 
 ![project scr3](https://user-images.githubusercontent.com/65470222/85028133-fef7ca80-b17a-11ea-8547-b3185407c621.png)
 
-Names of Team members:-
-1. Gundelli Harish ,e.no:- 522159,
-2. Marishetty Sheshu, e.no:- 522142,
-3. Kusampudi Chakri Ajit, e.no:- 522386 .
+by
+#Harish 
